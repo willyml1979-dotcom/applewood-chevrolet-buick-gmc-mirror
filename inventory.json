@@ -1,7 +1,7 @@
 {
   "dealership": "Applewood Chevrolet Buick Gmc",
-  "generated_at": "2026-09-26T17:55:42",
-  "vehicle_count": 135,
+  "generated_at": "2026-10-01T18:06:48",
+  "vehicle_count": 121,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,6 +13,16 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2012-chevrolet-silverado-1500-ltz-ScTvRJXET7SIVNYeuP4mnAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2012-chevrolet-silverado-1500-ltz-ScTvRJXET7SIVNYeuP4mnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:07",
+      "condition": "used"
+    },
+    {
+      "name": "Used2014JeepGrand CherokeeOverland",
+      "vin": "1C4RJFCT1EC273631",
+      "stock": "GH5C641",
+      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/225d28958d36.html",
+      "source_url": "https://www.applewoodgm.ca/inventory/2014-jeep-grand-cherokee-overland-zaR8HD3QSDGeQ36PpumFFAvdp",
+      "dealer_url": "https://www.applewoodgm.ca/inventory/2014-jeep-grand-cherokee-overland-zaR8HD3QSDGeQ36PpumFFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:03:39",
       "condition": "used"
     },
     {
@@ -55,17 +65,6 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2016-chevrolet-colorado-2wd-lt-hk8sHMvYQ0K4H44IvTnm7Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2016-chevrolet-colorado-2wd-lt-hk8sHMvYQ0K4H44IvTnm7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:43",
-      "condition": "used"
-    },
-    {
-      "name": "Used2016NissanTitan XDSV",
-      "vin": "1N6BA1F48GN502187",
-      "stock": "GH5C641",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/521fd2bc0797.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2016-nissan-titan-xd-sv-DHj8OpYoTOuvG3jWl5uDSwvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2016-nissan-titan-xd-sv-DHj8OpYoTOuvG3jWl5uDSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:37:51",
       "condition": "used"
     },
     {
@@ -112,16 +111,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2018FordEcoSportSE",
-      "vin": "MAJ6P1UL2JC159575",
-      "stock": "GHP3482",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/b9736c621fa8.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-se-luBbCgLTQjuecgjSjy458Qvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-se-luBbCgLTQjuecgjSjy458Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:38:39",
-      "condition": "used"
-    },
-    {
       "name": "Used2018FordEcoSportSES",
       "vin": "MAJ6P1CL5JC177361",
       "stock": "GH6K850",
@@ -130,17 +119,6 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-ses-dBc931s4SiiGUKGRFgXDagvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-ses-dBc931s4SiiGUKGRFgXDagvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:38:48",
-      "condition": "used"
-    },
-    {
-      "name": "Used2018FordEscapeSE",
-      "vin": "1FMCU9GD1JUA67579",
-      "stock": "FHB6616",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/6f77316492af.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2018-ford-escape-se-wb8n5qT8TZuifKMGbuI1AAvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2018-ford-escape-se-wb8n5qT8TZuifKMGbuI1AAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:38:58",
       "condition": "used"
     },
     {
@@ -170,7 +148,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/55a2217c2fd1.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2019-ford-f-150-xl-5f367oepQoqQOBiLIRwMnwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2019-ford-f-150-xl-5f367oepQoqQOBiLIRwMnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:39:25",
+      "last_verified": "2026-10-01T18:04:09",
       "condition": "used"
     },
     {
@@ -180,7 +158,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/ed8dc0b10924.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2020-ford-escape-sel-zuCBfqINTWyu2QjYMqHNJgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-ford-escape-sel-zuCBfqINTWyu2QjYMqHNJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:39:37",
+      "last_verified": "2026-10-01T18:04:18",
       "condition": "used"
     },
     {
@@ -191,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/452723ad0cbf.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2020-gmc-sierra-1500-sle-d7Jimdk2QYOtPZ4Y6cRr2Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-gmc-sierra-1500-sle-d7Jimdk2QYOtPZ4Y6cRr2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:39:48",
+      "last_verified": "2026-10-01T18:04:30",
       "condition": "used"
     },
     {
@@ -202,17 +180,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/bf214ef6843a.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2020-jeep-gladiator-sport-s-Yiaff6yWRAyZTtETomo6Zgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-jeep-gladiator-sport-s-Yiaff6yWRAyZTtETomo6Zgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:39:59",
-      "condition": "used"
-    },
-    {
-      "name": "Used2020Land RoverRange Rover EvoqueFirst Edition",
-      "vin": "SALZL2FX5LH007524",
-      "stock": "GHP2879",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/712d700a051a.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2020-land-rover-range-rover-evoque-first-edition-WPTcpQm1S92sfQ1laSRNGAvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2020-land-rover-range-rover-evoque-first-edition-WPTcpQm1S92sfQ1laSRNGAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:40:09",
+      "last_verified": "2026-10-01T18:04:41",
       "condition": "used"
     },
     {
@@ -223,18 +191,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/742a22e3558d.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2021-chevrolet-silverado-3500hd-lt-qw6nxUapRvqRzCc5bCqY7Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2021-chevrolet-silverado-3500hd-lt-qw6nxUapRvqRzCc5bCqY7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:40:19",
-      "condition": "used"
-    },
-    {
-      "name": "Used2021GMCSierra 3500HDAT4",
-      "vin": "1GT49VEY3MF106271",
-      "stock": "GHB5681",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/76d7bf06b7ba.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2021-gmc-sierra-3500hd-at4-NhqwauMWQ6OWjhVjvidsEQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2021-gmc-sierra-3500hd-at4-NhqwauMWQ6OWjhVjvidsEQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:40:42",
+      "last_verified": "2026-10-01T18:04:54",
       "condition": "used"
     },
     {
@@ -244,7 +201,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/423ee5a67596.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2021-jeep-cherokee-trailhawk-elite-nREKy2oARp6GgSt097Op7Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2021-jeep-cherokee-trailhawk-elite-nREKy2oARp6GgSt097Op7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:40:53",
+      "last_verified": "2026-10-01T18:05:03",
       "condition": "used"
     },
     {
@@ -254,29 +211,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/7e90e32c27ef.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2021-jeep-compass-trailhawk-pcBy8me4QEi9ploLCZj47wvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2021-jeep-compass-trailhawk-pcBy8me4QEi9ploLCZj47wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:03",
-      "condition": "used"
-    },
-    {
-      "name": "Used2022FordExplorerXLT",
-      "vin": "1FMSK8DH8NGB00942",
-      "stock": "GHP0942",
-      "color": "Green",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/dbb405a584c8.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2022-ford-explorer-xlt-1GuKKGCJS3O8pe23DQyOHwvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2022-ford-explorer-xlt-1GuKKGCJS3O8pe23DQyOHwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:15",
-      "condition": "used"
-    },
-    {
-      "name": "Used2022FordF-150XLT",
-      "vin": "1FTFW1E52NKD46890",
-      "stock": "FHB8248",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/b573a34f389f.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2022-ford-f-150-xlt-hsQ1hz9ETRa6bthqKrnrvgvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2022-ford-f-150-xlt-hsQ1hz9ETRa6bthqKrnrvgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:26",
+      "last_verified": "2026-10-01T18:05:13",
       "condition": "used"
     },
     {
@@ -287,7 +222,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/79ea8c6b082e.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2022-gmc-terrain-slt-ts1XNlBNTHq2vTIAmvoJuwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2022-gmc-terrain-slt-ts1XNlBNTHq2vTIAmvoJuwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:36",
+      "last_verified": "2026-10-01T18:05:24",
       "condition": "used"
     },
     {
@@ -297,18 +232,18 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/1b1a1834c562.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2022-jeep-gladiator-overland-vBaYXLXaTwqf9659KAOwBwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2022-jeep-gladiator-overland-vBaYXLXaTwqf9659KAOwBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:46",
+      "last_verified": "2026-10-01T18:05:34",
       "condition": "used"
     },
     {
-      "name": "Used2022MitsubishiOutlander PHEVSE",
-      "vin": "JA4J2VA70NZ617290",
-      "stock": "GHP1729",
-      "color": "Silver",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/a9b713a1ef8d.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2022-mitsubishi-outlander-phev-se-txooZ3YhRuaaoJq4TQAYYAvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2022-mitsubishi-outlander-phev-se-txooZ3YhRuaaoJq4TQAYYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:41:59",
+      "name": "Used2022Ram1500Sport",
+      "vin": "1C6SRFVT3NN312688",
+      "stock": "GHP6365",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/8ecd6a40307a.html",
+      "source_url": "https://www.applewoodgm.ca/inventory/2022-ram-1500-sport-A8QazNyQQwic7dqF39osQAvdp",
+      "dealer_url": "https://www.applewoodgm.ca/inventory/2022-ram-1500-sport-A8QazNyQQwic7dqF39osQAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:03:49",
       "condition": "used"
     },
     {
@@ -319,7 +254,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/3d83bc8fe3d4.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:42:09",
+      "last_verified": "2026-10-01T18:05:45",
       "condition": "used"
     },
     {
@@ -329,7 +264,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/5e2419fd7939.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-suburban-lt-lhQqFKSJSEKyo2TRgindpAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-suburban-lt-lhQqFKSJSEKyo2TRgindpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:42:18",
+      "last_verified": "2026-10-01T18:05:57",
       "condition": "used"
     },
     {
@@ -340,7 +275,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/12574a9bc204.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-trailblazer-rs-16pjMkB3RDyaF9PanBXi3Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-trailblazer-rs-16pjMkB3RDyaF9PanBXi3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:42:30",
+      "last_verified": "2026-10-01T18:06:10",
       "condition": "used"
     },
     {
@@ -350,7 +285,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/fc88712b1910.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-gmc-sierra-1500-at4-WeXl5192Sa6iGTChOpZCSAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-gmc-sierra-1500-at4-WeXl5192Sa6iGTChOpZCSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:42:51",
+      "last_verified": "2026-10-01T18:06:18",
       "condition": "used"
     },
     {
@@ -361,7 +296,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/3c8b9ed5450f.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:43:01",
+      "last_verified": "2026-10-01T18:06:30",
       "condition": "used"
     },
     {
@@ -372,17 +307,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/41b9c15088f1.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-mitsubishi-outlander-unknown-pRRUz6ZtRk2p9u4Lcn5qVgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-mitsubishi-outlander-unknown-pRRUz6ZtRk2p9u4Lcn5qVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:43:11",
-      "condition": "used"
-    },
-    {
-      "name": "Used2023Ram1500Sport",
-      "vin": "1C6SRFVT3PN674975",
-      "stock": "GHP7497",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/72e4ee1d20e9.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2023-ram-1500-sport-m6TkXhEBSf25KmmUZJDwSQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2023-ram-1500-sport-m6TkXhEBSf25KmmUZJDwSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:43:23",
+      "last_verified": "2026-10-01T18:06:41",
       "condition": "used"
     },
     {
@@ -439,6 +364,17 @@
       "condition": "used"
     },
     {
+      "name": "Used2024GMCCanyonElevation",
+      "vin": "1GTP6BEK5R1318576",
+      "stock": "GH6W581",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/3a5b77cc0ac6.html",
+      "source_url": "https://www.applewoodgm.ca/inventory/2024-gmc-canyon-elevation-HqQJnGoAQkO1pZrBZcpBOQvdp",
+      "dealer_url": "https://www.applewoodgm.ca/inventory/2024-gmc-canyon-elevation-HqQJnGoAQkO1pZrBZcpBOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T18:04:00",
+      "condition": "used"
+    },
+    {
       "name": "Used2024KiaCarnivalLX",
       "vin": "KNDNB5H33R6384068",
       "stock": "GHB6406",
@@ -456,17 +392,6 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:44:39",
-      "condition": "used"
-    },
-    {
-      "name": "Used2024NissanKicksSV",
-      "vin": "3N1CP5CV8RL553897",
-      "stock": "GHP5389",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/6d7e18432b26.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2024-nissan-kicks-sv-EesFbopkRdCYtBVeFuK29Qvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2024-nissan-kicks-sv-EesFbopkRdCYtBVeFuK29Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:44:49",
       "condition": "used"
     },
     {
@@ -554,27 +479,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2025GMCCanyonAT4",
-      "vin": "1GTP2DEK8S1190590",
-      "stock": "GH5N059",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/141f10b62a78.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2025-gmc-canyon-at4-3ybsFeXuSIyHIiXBKuNC2wvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2025-gmc-canyon-at4-3ybsFeXuSIyHIiXBKuNC2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:46:24",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025MitsubishiOutlanderES",
-      "vin": "JA4J4UA80SZ623016",
-      "stock": "GHP2301",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/542dc01945a3.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2025-mitsubishi-outlander-es-BgW7U003TMO45odlB6uDHQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2025-mitsubishi-outlander-es-BgW7U003TMO45odlB6uDHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:46:34",
-      "condition": "used"
-    },
-    {
       "name": "Used2025NissanKicks PlayS",
       "vin": "3N1CP5BV1SL490357",
       "stock": "GH71897",
@@ -582,27 +486,6 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:46:45",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026CadillacEscalade IQLSport",
-      "vin": "1GYLELKL4TU106286",
-      "stock": "GHB6628",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/eec56cac589a.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2026-cadillac-escalade-iql-sport-ZTkrNaqXSuyxjrvxJ4MZpQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2026-cadillac-escalade-iql-sport-ZTkrNaqXSuyxjrvxJ4MZpQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:46:55",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026ChevroletSilverado 1500LT",
-      "vin": "3GCUKDED5TG185032",
-      "stock": "GHP8503",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/5ec742d00b99.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-silverado-1500-lt-xz7JqGhNRtGGEzL7PaVjjwvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-silverado-1500-lt-xz7JqGhNRtGGEzL7PaVjjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:47:07",
       "condition": "used"
     },
     {
@@ -614,16 +497,6 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:47:17",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026ChevroletTrailBlazerLS",
-      "vin": "KL79MNSL8TB019000",
-      "stock": "6K9000",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/4a8e27fd6319.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trailblazer-ls-C6377mczSUuZ993Z85L6yQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trailblazer-ls-C6377mczSUuZ993Z85L6yQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:47:27",
       "condition": "used"
     },
     {
@@ -940,17 +813,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2021GMCSierra 1500",
-      "vin": "1GTU9AEF5MZ198621",
-      "stock": "GHB5681",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/4cd025eed827.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2021-gmc-sierra-1500-MVPi8YLlRBKcDZ3Ev701sQvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2021-gmc-sierra-1500-MVPi8YLlRBKcDZ3Ev701sQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:12:28",
-      "condition": "used"
-    },
-    {
       "name": "Used2021GMCSierra 3500HDAT4",
       "vin": "1GT49VEY3MF106271",
       "stock": "GHB5681",
@@ -1043,7 +905,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/3d83bc8fe3d4.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:14:02",
+      "last_verified": "2026-09-26T20:36:34",
       "condition": "used"
     },
     {
@@ -1068,16 +930,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2023FordF-150XLT",
-      "vin": "1FTFW1E81PFC39156",
-      "stock": "GH6D040",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/8dc715c3cf4d.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2023-ford-f-150-xlt-ljvm1YcfRpCYrXn2j3MwPAvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2023-ford-f-150-xlt-ljvm1YcfRpCYrXn2j3MwPAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:14:34",
-      "condition": "used"
-    },
-    {
       "name": "Used2023GMCSierra 1500AT4",
       "vin": "1GTUUEEL9PZ241048",
       "stock": "GH6S418",
@@ -1095,7 +947,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/3c8b9ed5450f.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:14:54",
+      "last_verified": "2026-09-26T20:37:15",
       "condition": "used"
     },
     {
@@ -1116,7 +968,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/72e4ee1d20e9.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2023-ram-1500-sport-m6TkXhEBSf25KmmUZJDwSQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-ram-1500-sport-m6TkXhEBSf25KmmUZJDwSQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:15:17",
+      "last_verified": "2026-09-26T20:37:34",
       "condition": "used"
     },
     {
@@ -1189,7 +1041,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/f97a1db9c211.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:16:31",
+      "last_verified": "2026-09-26T20:38:51",
       "condition": "used"
     },
     {
