@@ -1,6 +1,6 @@
 {
   "dealership": "Applewood Chevrolet Buick Gmc",
-  "generated_at": "2026-10-04T18:23:14",
+  "generated_at": "2026-10-07T20:23:54",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2012-chevrolet-silverado-1500-ltz-ScTvRJXET7SIVNYeuP4mnAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2012-chevrolet-silverado-1500-ltz-ScTvRJXET7SIVNYeuP4mnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2014JeepGrand CherokeeOverland",
@@ -23,7 +25,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2014-jeep-grand-cherokee-overland-zaR8HD3QSDGeQ36PpumFFAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2014-jeep-grand-cherokee-overland-zaR8HD3QSDGeQ36PpumFFAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:03:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2015ChevroletTahoeLT",
@@ -33,7 +37,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2015-chevrolet-tahoe-lt-JwAZ14j3SZqMmbnJSiJrEAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2015-chevrolet-tahoe-lt-JwAZ14j3SZqMmbnJSiJrEAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:16",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2015HondaCivic SedanEX",
@@ -44,7 +50,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2015-honda-civic-sedan-ex-o4bjIGiGTimk6ll18sidzwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2015-honda-civic-sedan-ex-o4bjIGiGTimk6ll18sidzwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:26",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2016ChevroletColorado2WD LT",
@@ -55,7 +63,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2016-chevrolet-colorado-2wd-lt-hk8sHMvYQ0K4H44IvTnm7Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2016-chevrolet-colorado-2wd-lt-hk8sHMvYQ0K4H44IvTnm7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:43",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2017FordExplorerSport",
@@ -65,7 +75,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2017-ford-explorer-sport-V44Yai3CTSakjetNJ2dYtAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2017-ford-explorer-sport-V44Yai3CTSakjetNJ2dYtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:37:59",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2017JeepGrand CherokeeLimited",
@@ -76,7 +88,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2017-jeep-grand-cherokee-limited-1yn6QCkBS7CXgQXwaPismgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2017-jeep-grand-cherokee-limited-1yn6QCkBS7CXgQXwaPismgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:38:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2017JeepPatriot75th Anniversary",
@@ -87,7 +101,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2017-jeep-patriot-75th-anniversary-QUEMZPL0QfWaijT3ttLklQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2017-jeep-patriot-75th-anniversary-QUEMZPL0QfWaijT3ttLklQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:38:20",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2017Ram1500Sport",
@@ -98,7 +114,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2017-ram-1500-sport-x8oL2RU2TQyk12AyJcIcYgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2017-ram-1500-sport-x8oL2RU2TQyk12AyJcIcYgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:38:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2018FordEcoSportSES",
@@ -109,7 +127,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-ses-dBc931s4SiiGUKGRFgXDagvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2018-ford-ecosport-ses-dBc931s4SiiGUKGRFgXDagvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:38:48",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2019BMW3 Series330i xDrive",
@@ -119,7 +139,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2019-bmw-3-series-330i-xdrive-zw5Z4ifdQ3yFT7ZDR0AFKQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2019-bmw-3-series-330i-xdrive-zw5Z4ifdQ3yFT7ZDR0AFKQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:39:07",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2019FordEscapeSE",
@@ -129,7 +151,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2019-ford-escape-se-2HKV3SbXRfGMnVMpHsQU2Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2019-ford-escape-se-2HKV3SbXRfGMnVMpHsQU2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:39:14",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2019FordF-150XL",
@@ -139,7 +163,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2019-ford-f-150-xl-5f367oepQoqQOBiLIRwMnwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2019-ford-f-150-xl-5f367oepQoqQOBiLIRwMnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2019GMCAcadiaSLT",
@@ -150,7 +176,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2019-gmc-acadia-slt-aG5ePLWbRYCY7yDYS3wX6gvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2019-gmc-acadia-slt-aG5ePLWbRYCY7yDYS3wX6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T18:18:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2020FordEscapeSEL",
@@ -160,7 +188,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2020-ford-escape-sel-zuCBfqINTWyu2QjYMqHNJgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-ford-escape-sel-zuCBfqINTWyu2QjYMqHNJgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2020GMCSierra 1500SLE",
@@ -171,7 +201,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2020-gmc-sierra-1500-sle-d7Jimdk2QYOtPZ4Y6cRr2Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-gmc-sierra-1500-sle-d7Jimdk2QYOtPZ4Y6cRr2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2020JeepGladiatorSport S",
@@ -182,7 +214,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2020-jeep-gladiator-sport-s-Yiaff6yWRAyZTtETomo6Zgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2020-jeep-gladiator-sport-s-Yiaff6yWRAyZTtETomo6Zgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2021ChevroletSilverado 3500HDLT",
@@ -193,7 +227,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2021-chevrolet-silverado-3500hd-lt-qw6nxUapRvqRzCc5bCqY7Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2021-chevrolet-silverado-3500hd-lt-qw6nxUapRvqRzCc5bCqY7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:54",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2021JeepCherokeeTrailhawk Elite",
@@ -203,7 +239,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2021-jeep-cherokee-trailhawk-elite-nREKy2oARp6GgSt097Op7Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2021-jeep-cherokee-trailhawk-elite-nREKy2oARp6GgSt097Op7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:05:03",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2022GMCTerrainSLT",
@@ -214,7 +252,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2022-gmc-terrain-slt-ts1XNlBNTHq2vTIAmvoJuwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2022-gmc-terrain-slt-ts1XNlBNTHq2vTIAmvoJuwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:05:24",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2022JeepGladiatorOverland",
@@ -224,7 +264,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2022-jeep-gladiator-overland-vBaYXLXaTwqf9659KAOwBwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2022-jeep-gladiator-overland-vBaYXLXaTwqf9659KAOwBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:05:34",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2022Ram1500Sport",
@@ -235,7 +277,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2022-ram-1500-sport-A8QazNyQQwic7dqF39osQAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2022-ram-1500-sport-A8QazNyQQwic7dqF39osQAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:03:49",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023ChevroletBlazerRS",
@@ -246,7 +290,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-blazer-rs-I8ZrAa1EQA2wbfdYGRY6DQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:05:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023ChevroletSuburbanLT",
@@ -256,7 +302,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-suburban-lt-lhQqFKSJSEKyo2TRgindpAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-suburban-lt-lhQqFKSJSEKyo2TRgindpAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:05:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023ChevroletTrailBlazerRS",
@@ -267,7 +315,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-trailblazer-rs-16pjMkB3RDyaF9PanBXi3Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-chevrolet-trailblazer-rs-16pjMkB3RDyaF9PanBXi3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:06:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023GMCSierra 1500AT4",
@@ -277,7 +327,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-gmc-sierra-1500-at4-WeXl5192Sa6iGTChOpZCSAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-gmc-sierra-1500-at4-WeXl5192Sa6iGTChOpZCSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:06:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023JeepWranglerWillys",
@@ -288,7 +340,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-jeep-wrangler-willys-ou9MZsfmRwOt74YWiARt0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:06:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2023ToyotabZ4XLE",
@@ -298,7 +352,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2023-toyota-bz4x-le-3aq3fKN4Rdazed0h8rzZygvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2023-toyota-bz4x-le-3aq3fKN4Rdazed0h8rzZygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:20:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024BuickEncore GXPreferred",
@@ -308,7 +364,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-buick-encore-gx-preferred-Vw8gJwV8QLejYR4H8o4DiAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-buick-encore-gx-preferred-Vw8gJwV8QLejYR4H8o4DiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:20:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024BuickEncore GXPreferred",
@@ -319,7 +377,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-buick-encore-gx-preferred-aeLkAacSReGlrKkuhxy2eAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-buick-encore-gx-preferred-aeLkAacSReGlrKkuhxy2eAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:20:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024ChevroletTrax1RS",
@@ -330,7 +390,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-chevrolet-trax-1rs-FXJWEJQxSdWvZcTBOznn0Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-chevrolet-trax-1rs-FXJWEJQxSdWvZcTBOznn0Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:21:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024FordEscapeActive",
@@ -341,7 +403,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-ford-escape-active-KTT0HxbYSoCwBhpYnTyUMAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-ford-escape-active-KTT0HxbYSoCwBhpYnTyUMAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:21:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024GMCCanyonElevation",
@@ -352,7 +416,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-gmc-canyon-elevation-HqQJnGoAQkO1pZrBZcpBOQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-gmc-canyon-elevation-HqQJnGoAQkO1pZrBZcpBOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T18:04:00",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaCarnivalLX",
@@ -362,7 +428,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-kia-carnival-lx-XRknROShSMGbJhapIZIndgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-kia-carnival-lx-XRknROShSMGbJhapIZIndgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:21:31",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024MitsubishiEclipse CrossUNKNOWN",
@@ -372,7 +440,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-mitsubishi-eclipse-cross-unknown-un3NekTMTA6APSyRiBRHrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:21:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024Ram1500 ClassicWarlock",
@@ -383,7 +453,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-ram-1500-classic-warlock-ytlVLJ7bT1SeN8dE7FLWngvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-ram-1500-classic-warlock-ytlVLJ7bT1SeN8dE7FLWngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:21:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024ToyotabZ4XLE",
@@ -393,7 +465,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-toyota-bz4x-le-kQUamjnST4qKjBtJlEyQdAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-toyota-bz4x-le-kQUamjnST4qKjBtJlEyQdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:02",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2024ToyotaTacoma",
@@ -403,7 +477,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2024-toyota-tacoma-UAzQCwVrQpy14rny73YGhAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-toyota-tacoma-UAzQCwVrQpy14rny73YGhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025BuickEncore GXAvenir",
@@ -413,7 +489,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-encore-gx-avenir-xzzWjTIeTFaL0ayIqd3Hagvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-encore-gx-avenir-xzzWjTIeTFaL0ayIqd3Hagvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:24",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025BuickEnvisionSport Touring",
@@ -424,7 +502,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-envision-sport-touring-knGDPeRJSIu1P25zPXgb3Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-envision-sport-touring-knGDPeRJSIu1P25zPXgb3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:38",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025ChevroletTraxLS",
@@ -435,7 +515,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-trax-ls-lUzrcYy1QSakze63MxsUWAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-trax-ls-lUzrcYy1QSakze63MxsUWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:48",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025FordBronco SportBig Bend",
@@ -445,7 +527,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-ford-bronco-sport-big-bend-TOnix9YGQ8u1MilmrI4pTwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-ford-bronco-sport-big-bend-TOnix9YGQ8u1MilmrI4pTwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:22:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025FordExpeditionPlatinum",
@@ -456,7 +540,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-ford-expedition-platinum-B9HkxQJzRZin03YsFJ5GSAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-ford-expedition-platinum-B9HkxQJzRZin03YsFJ5GSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T18:23:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2025NissanKicks PlayS",
@@ -466,7 +552,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:46:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2026ChevroletTahoePremier",
@@ -477,7 +565,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:47:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "Used2026MitsubishiRVRES",
@@ -487,7 +577,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2026-mitsubishi-rvr-es-tDAYgHbJT0qbabIx6sbdZgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-mitsubishi-rvr-es-tDAYgHbJT0qbabIx6sbdZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:47:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCAcadiaDenali",
@@ -499,7 +591,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-acadia-denali-zIfs17P0SiueV2YR0woRFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:47:48",
       "odometer_km": 24000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD AT4",
@@ -511,7 +605,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-at4-0rMaoC3TRGGKfUdRFibPhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:47:59",
       "odometer_km": 24000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -523,7 +619,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-3pblPF6SToq0M15q4qsZTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:48:09",
       "odometer_km": 24000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -535,7 +633,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-Ip7CQPgYSFiMbXrSEEAofwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:48:20",
       "odometer_km": 24000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -547,7 +647,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-eQmj2TBmS0WgNNbL1dyjQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T17:48:30",
       "odometer_km": 24000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025BuickEnvistaAvenir",
@@ -558,7 +660,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-envista-avenir-0BWR9wESRkSXzXMX5DHhBgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-envista-avenir-0BWR9wESRkSXzXMX5DHhBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:06:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025BuickEnvistaSport Touring",
@@ -569,7 +673,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-envista-sport-touring-BVLzGrndTvCRT94zxo02hQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-envista-sport-touring-BVLzGrndTvCRT94zxo02hQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:06:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025ChevroletBlazerLT",
@@ -580,7 +686,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-blazer-lt-Rp3pobk3Q5qhesMLFpK3YQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-blazer-lt-Rp3pobk3Q5qhesMLFpK3YQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:06:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025ChevroletBlazerPremier",
@@ -591,7 +699,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-blazer-premier-G3MwLddESfCtQK3u1sMzjQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-blazer-premier-G3MwLddESfCtQK3u1sMzjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:06:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025ChevroletColorado4WD Trail Boss",
@@ -602,7 +712,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-trail-boss-DDZnTUtnTvuoJ1hHIEhEqgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-trail-boss-DDZnTUtnTvuoJ1hHIEhEqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:07:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025ChevroletColorado4WD ZR2",
@@ -613,7 +725,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-zr2-oWPY6nQxQiuvliI5HbgdTAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-zr2-oWPY6nQxQiuvliI5HbgdTAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:07:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025ChevroletColorado4WD ZR2",
@@ -624,7 +738,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-zr2-qQNhC7gHSoa6YgAIrUwJ4Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-colorado-4wd-zr2-qQNhC7gHSoa6YgAIrUwJ4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:07:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025GMCSierra 3500HDSLT",
@@ -635,7 +751,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-gmc-sierra-3500hd-slt-5TK2nnPcTxi7gwjIvOut5Qvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-gmc-sierra-3500hd-slt-5TK2nnPcTxi7gwjIvOut5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:07:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2025GMCSierra 3500HDSLT",
@@ -646,7 +764,9 @@
       "source_url": "https://www.applewoodgm.ca/inventory/2025-gmc-sierra-3500hd-slt-svCQN4x7R4CZ27zj6yXXDQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-gmc-sierra-3500hd-slt-svCQN4x7R4CZ27zj6yXXDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:07:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXAvenir",
@@ -658,7 +778,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-avenir-r0FkkQMkSV205yJEeFveEQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:01",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXPreferred",
@@ -670,7 +792,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-preferred-LPjrOC7WToWxfklIfKcW2wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:13",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXPreferred",
@@ -682,7 +806,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-preferred-QuINDpw6Qr232t8tJm23oQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:24",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXPreferred",
@@ -694,7 +820,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-preferred-jcZVFva0R2iAr5pOWnzAjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:36",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXPreferred",
@@ -706,7 +834,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-preferred-tzKz7WAWRLKwicpfbcMrXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:46",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXSport Touring",
@@ -718,7 +848,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-encore-gx-sport-touring-FuF7PG5cRJmzXmPOoueWOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T21:08:58",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionPreferred",
@@ -730,7 +862,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-envision-preferred-E6zTbt8OR06M5y7qJFiYpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:13:10",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionPreferred",
@@ -742,7 +876,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-envision-preferred-OQgXQoDIT9mTPp6UZkNf9Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:13:20",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaPreferred",
@@ -754,7 +890,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-buick-envista-preferred-SOqHVQB4SlK5F0j768fNgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:13:31",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSilverado 1500LT",
@@ -766,7 +904,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-silverado-1500-lt-jUU5AFYDTMyfjw4jcNUiqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:13:42",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSilverado 1500RST",
@@ -778,7 +918,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-silverado-1500-rst-YVIcXlFoS0KtUyynTYqRngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:13:53",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSuburbanHigh Country",
@@ -790,7 +932,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-suburban-high-country-K9x9EzytRXWiuFb90H866Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:14:05",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletSuburbanHigh Country",
@@ -802,7 +946,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-suburban-high-country-p8HESDDFTAqQbBwRCYDmxAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:14:16",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTahoeRST",
@@ -814,7 +960,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-rst-WjIwilN6SjW00Ww9eviP8Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:14:28",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrailBlazerLS",
@@ -825,7 +973,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trailblazer-ls-C6377mczSUuZ993Z85L6yQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:14:39",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTraverseRS",
@@ -837,7 +987,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-traverse-rs-AgUK96GaTOWKod8TenKQQQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:14:50",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -849,7 +1001,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-65HybAwLQkKdvsfwg7XDqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:15:02",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -861,7 +1015,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-MpZv9COvSuqpPrVnXi8L3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:15:12",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -873,7 +1029,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-Qhlmv3YDTzqabalVZtj27wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:15:23",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -885,7 +1043,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-WsQc72AeSyqagl16SWuS3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:15:36",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -897,7 +1057,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-f9gZ6tOFRh2zf5sNUxKfWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T21:15:48",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -909,7 +1071,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-hLx9a8JCTxqWgn0b74zXtgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:57:26",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -921,7 +1085,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-iXGSrK7ITPOqqzfT75am9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:57:37",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax1RS",
@@ -933,7 +1099,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-1rs-zFEJCXEZRdmSc7H3aANxZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:57:49",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax2RS",
@@ -945,7 +1113,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-2rs-cqbMDdQ7Sv6OsbqkNWABVQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:58:00",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax2RS",
@@ -957,7 +1127,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-2rs-h1v9ZpkjRBexSZcxh1Pi8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:58:10",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTrax2RS",
@@ -969,7 +1141,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-2rs-t9cMG3KpSHq5qlrNhXcN1wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:58:21",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026ChevroletTraxLT",
@@ -981,7 +1155,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-trax-lt-KphcoFv8RRefWzeYymBPpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:58:32",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyonDenali",
@@ -993,7 +1169,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-canyon-denali-JWHbcywDRgiCHif8cXiMkAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:58:54",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Denali",
@@ -1005,7 +1183,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-denali-ZRxkKocgQzeWhPR3JJYgrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:59:04",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Elevation",
@@ -1017,7 +1197,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-elevation-gUmAgYngTh60DK6fyYIZWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:59:16",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Elevation",
@@ -1029,7 +1211,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-elevation-z5Fbzq8CSC6PrJ77HgAMkgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:59:26",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Pro",
@@ -1041,7 +1225,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-pro-3VwAJBIgQQqZPcLSExyVQAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T20:59:37",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Pro",
@@ -1053,7 +1239,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-pro-gnxMJKgTTYmm69Z9iSbJgwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:00:00",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Pro",
@@ -1065,7 +1253,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-pro-sw1LnUl9TVKXJOUC7tS2Kgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:00:12",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500Pro",
@@ -1077,7 +1267,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-pro-t2LwzMP7Sy2wqKXCEGIO3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:00:24",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500SLE",
@@ -1089,7 +1281,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-sle-0eClDSZHSCeU8G68VrNfsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:00:36",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 1500SLE",
@@ -1101,7 +1295,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-1500-sle-HxpN42FxRy67lW326rodVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:00:51",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HDDenali",
@@ -1113,7 +1309,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-sierra-3500hd-denali-YLH5bIp6Roq7qqoeapZeGAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:00",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XLElevation",
@@ -1125,7 +1323,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-gmc-yukon-xl-elevation-3kFtqWdMSIWjcAcvgVjFVAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:10",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCAcadiaDenali",
@@ -1137,7 +1337,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-acadia-denali-zIfs17P0SiueV2YR0woRFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:28",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD AT4",
@@ -1149,7 +1351,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-at4-0rMaoC3TRGGKfUdRFibPhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:38",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -1161,7 +1365,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-3pblPF6SToq0M15q4qsZTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:48",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -1173,7 +1379,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-Ip7CQPgYSFiMbXrSEEAofwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:01:58",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Elevation",
@@ -1185,7 +1393,9 @@
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-eQmj2TBmS0WgNNbL1dyjQgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-01T21:02:08",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Hardy",
+      "province": "BC"
     }
   ]
 }
