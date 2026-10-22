@@ -1,7 +1,7 @@
 {
   "dealership": "Applewood Chevrolet Buick Gmc",
-  "generated_at": "2026-10-20T21:41:47",
-  "vehicle_count": 106,
+  "generated_at": "2026-10-22T04:38:27",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -437,7 +437,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/e6fc987be5e1.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2024-ram-1500-classic-warlock-ytlVLJ7bT1SeN8dE7FLWngvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-ram-1500-classic-warlock-ytlVLJ7bT1SeN8dE7FLWngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:21:53",
+      "last_verified": "2026-10-22T04:36:28",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -449,19 +449,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/67ba8c4786a4.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2024-toyota-bz4x-le-kQUamjnST4qKjBtJlEyQdAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2024-toyota-bz4x-le-kQUamjnST4qKjBtJlEyQdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:02",
-      "condition": "used",
-      "city": "Port Hardy",
-      "province": "BC"
-    },
-    {
-      "name": "Used2024ToyotaTacoma",
-      "vin": "3TYLB5JN4RT057685",
-      "stock": "GH6S981",
-      "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/1415e2438a89.html",
-      "source_url": "https://www.applewoodgm.ca/inventory/2024-toyota-tacoma-UAzQCwVrQpy14rny73YGhAvdp",
-      "dealer_url": "https://www.applewoodgm.ca/inventory/2024-toyota-tacoma-UAzQCwVrQpy14rny73YGhAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:11",
+      "last_verified": "2026-10-22T04:36:36",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -470,10 +458,11 @@
       "name": "Used2025BuickEncore GXAvenir",
       "vin": "KL4AMGSL0SB064386",
       "stock": "GH6V452",
+      "color": "Red",
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/c7f170b2a71c.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-encore-gx-avenir-xzzWjTIeTFaL0ayIqd3Hagvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-encore-gx-avenir-xzzWjTIeTFaL0ayIqd3Hagvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:24",
+      "last_verified": "2026-10-22T04:36:48",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -486,7 +475,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/436e60f9f138.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-buick-envision-sport-touring-knGDPeRJSIu1P25zPXgb3Avdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-buick-envision-sport-touring-knGDPeRJSIu1P25zPXgb3Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:38",
+      "last_verified": "2026-10-22T04:36:57",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -499,7 +488,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/1d556859bc5e.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-trax-ls-lUzrcYy1QSakze63MxsUWAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-chevrolet-trax-ls-lUzrcYy1QSakze63MxsUWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:48",
+      "last_verified": "2026-10-22T04:37:08",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -511,7 +500,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/9952f243be12.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-ford-bronco-sport-big-bend-TOnix9YGQ8u1MilmrI4pTwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-ford-bronco-sport-big-bend-TOnix9YGQ8u1MilmrI4pTwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:22:58",
+      "last_verified": "2026-10-22T04:37:17",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -524,7 +513,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/a92f9fe08c0b.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-ford-expedition-platinum-B9HkxQJzRZin03YsFJ5GSAvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-ford-expedition-platinum-B9HkxQJzRZin03YsFJ5GSAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-04T18:23:08",
+      "last_verified": "2026-10-22T04:37:26",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -536,7 +525,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/c0590a9a25c6.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2025-nissan-kicks-play-s-RtwQcc7ARO6kXahiJQ9JCwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:55:25",
+      "last_verified": "2026-10-22T04:37:34",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -549,7 +538,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/93af91d80f30.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-chevrolet-tahoe-premier-0tOcPfuSSJKUNBjFkFB5rwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:55:36",
+      "last_verified": "2026-10-22T04:37:44",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -573,7 +562,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/60d08cefe736.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2026-mitsubishi-rvr-es-tDAYgHbJT0qbabIx6sbdZgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2026-mitsubishi-rvr-es-tDAYgHbJT0qbabIx6sbdZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:55:47",
+      "last_verified": "2026-10-22T04:37:54",
       "condition": "used",
       "city": "Port Hardy",
       "province": "BC"
@@ -586,7 +575,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/4e290c255737.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2027-gmc-acadia-denali-zIfs17P0SiueV2YR0woRFgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-acadia-denali-zIfs17P0SiueV2YR0woRFgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:55:57",
+      "last_verified": "2026-10-22T04:38:06",
       "odometer_km": 24000,
       "condition": "used",
       "city": "Port Hardy",
@@ -600,7 +589,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/9dca3a4cbe6a.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-at4-0rMaoC3TRGGKfUdRFibPhQvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-at4-0rMaoC3TRGGKfUdRFibPhQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:56:07",
+      "last_verified": "2026-10-22T04:38:14",
       "odometer_km": 24000,
       "condition": "used",
       "city": "Port Hardy",
@@ -614,7 +603,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-chevrolet-buick-gmc-mirror/used/9929c48f89ad.html",
       "source_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-3pblPF6SToq0M15q4qsZTgvdp",
       "dealer_url": "https://www.applewoodgm.ca/inventory/2027-gmc-terrain-awd-elevation-3pblPF6SToq0M15q4qsZTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:56:17",
+      "last_verified": "2026-10-22T04:38:23",
       "odometer_km": 24000,
       "condition": "used",
       "city": "Port Hardy",
